@@ -1,2 +1,3 @@
-# kael-pattern-reader
-KAEL is a pattern-reading toy model focused on structural robustness under difficult and noisy data.
+# KAEL is a toy pattern reader designed to explore how structural patterns
+remain stable under difficult, sparse, or noisy data.
+
