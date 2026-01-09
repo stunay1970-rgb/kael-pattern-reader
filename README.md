@@ -25,14 +25,17 @@ It tries to prevent *structural blindness*.
 
 ## What KAEL Is NOT
 
-- ❌ Not a universal predictor  
-- ❌ Not a black-box deep model  
-- ❌ Not a Riemann-solver or physical law  
-- ❌ Not optimized for leaderboard performance  
+-  Not a universal predictor  
+-  Not a black-box deep model  
+-  Not a Riemann-solver or physical law  
+-  Not optimized for leaderboard performance  
 
 KAEL intentionally stays simple, transparent, and stress-oriented.
+## What KAEL Is Not
 
----
+- KAEL is not a predictive model.
+- KAEL does not optimize performance metrics.
+- KAEL does not replace domain-specific models.
 
 ## Test Philosophy
 
