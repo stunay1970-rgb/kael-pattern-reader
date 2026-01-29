@@ -11,4 +11,4 @@ time-series and sensor data.**Drone Stress Test – Structural Frequency Respons
 The figure shows KAEL’s frequency-based structural analysis on real or fallback UAV data.
 Both low-frequency drift (0.1–1 Hz) and high-frequency vibration components (10–30 Hz)
 are detected simultaneously, demonstrating KAEL’s ability to monitor structural stability
-under noisy and partially degraded conditions.![![Drone Stress Test – Structural Frequency Response](images/drone_frequency_response.png)
+under noisy and partially degraded conditions![Drone Stress Test – Structural Frequency Response](images/drone_frequency_response.png)
